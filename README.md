@@ -1,4 +1,4 @@
-# Heritages-Interfaces
+# Inheritages-Interfaces
 
 This repository contains several Java projects demonstrating inheritance and interfaces.
 
